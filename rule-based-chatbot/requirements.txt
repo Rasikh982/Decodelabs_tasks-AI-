@@ -1,0 +1,2 @@
+# This project uses only Python's built-in standard library.
+# No external packages needed. (Kept for good practice / future upgrades.)
